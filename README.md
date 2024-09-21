@@ -17,7 +17,19 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 
 
-![Moin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoinManiyar786&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoinManiyar786&layout=compact&theme=radical" />
+</p>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinManiyar786&theme=radical&no-frame=true&row=1&column=6)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoinManiyar786&theme=radical)
+
+
+
 
 
 
@@ -34,8 +46,9 @@ mastering new technologies.
 📫 Get in Touch:
 
 ## Get in Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moin-maniyar-358399320/)<br>
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:moinraza313786@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moin-maniyar-358399320/)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moinraza313786@gmail.com)<br>
+[![Devfolio](https://img.shields.io/badge/Devfolio-2C3539?style=for-the-badge&logo=dev&logoColor=white)](https://devfolio.co/@Mohammad_Moin)<br>
 
 
 Let’s build something awesome together! 💻🌍
