@@ -1,5 +1,7 @@
 👋 Hi, I'm Moin Maniyar! 🚀 Full-stack developer | Open-source enthusiast | Tech-driven problem solver
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hi+There!+I'm+Moin+Maniyar!;Full-Stack+Developer;Tech+Enthusiast;Open-source+Contributor)](https://git.io/typing-svg)
+
 
 🔭 Current Role: Team Lead for the Water Tracker and Quality Analysis Project (GDSC Solution Challenge & SIH)
 
@@ -25,6 +27,9 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 </p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinManiyar786&theme=tokyonight&no-frame=true&row=1&column=3)
+
+![Snake animation](https://github.com/MoinManiyar786/MoinManiyar786/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🚀 Featured Projects:
 | Project Name            | Description                                      | Tech Stack                  |
