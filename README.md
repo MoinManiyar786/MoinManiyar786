@@ -33,7 +33,7 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 ## 🚀 Featured Projects:
 | Project Name            | Description                                      | Tech Stack                  |
 |-------------------------|--------------------------------------------------|-----------------------------|
-| **Water Drop Tracker App** | An app for tracking water quality and efficiency | MERN, IOR, AWS Cloud         |
+| **Water Drop Tracker App** | An app for tracking water quality and efficiency | MERN, IOT, AWS Cloud         |
 | **Work Connect App**      | Connecting workers to clients                   | MERN Stack                  |
 | **College Website**       | Responsive, functional college website          | HTML, CSS, JavaScript, Bootstrap |
 
