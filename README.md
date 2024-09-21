@@ -19,12 +19,11 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoinManiyar786&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoinManiyar786&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoinManiyar786&theme=tokyonight" />
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinManiyar786&theme=radical&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinManiyar786&theme=tokyonight&no-frame=true&row=1&column=3)
 
 
 
