@@ -16,6 +16,8 @@ I enjoy working on real-world challenges, especially in areas related to water q
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Moin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=radical)
+
 
 🚀 What I'm Working On:
 
