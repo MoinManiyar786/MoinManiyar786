@@ -32,7 +32,9 @@ mastering new technologies.
 
 📫 Get in Touch:
 
-LinkedIn : https://www.linkedin.com/in/moin-maniyar-358399320/
-moinraza313786@gmail.com
+## Get in Touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moin-maniyar-358399320/)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:moinraza313786@gmail.com)
+
 
 Let’s build something awesome together! 💻🌍
