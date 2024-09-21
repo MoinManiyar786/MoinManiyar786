@@ -1,13 +1,13 @@
-👋 Hi, I'm Moin Maniyar!
+👋 Hi, I'm Moin Maniyar! 🚀 Full-stack developer | Open-source enthusiast | Tech-driven problem solver
+
 
 🔭 Current Role: Team Lead for the Water Tracker and Quality Analysis Project (GDSC Solution Challenge & SIH)
 
 👨‍💻 About Me:
 
-A tech enthusiast with a passion for developing impactful solutions.
-Skilled in C, C++, Python, HTML, CSS, JavaScript, and currently learning Java.
-Experienced in web development and project management, with a strong interest in open-source contributions.
-I enjoy working on real-world challenges, especially in areas related to water quality and sustainability.
+### About Me:
+I'm a tech enthusiast with a passion for developing impactful solutions. Skilled in **C, C++, Python, HTML, CSS, and JavaScript**, and currently learning **Java**. I enjoy working on real-world challenges, especially in web development, project management, and sustainability.
+
 
 ### Technologies & Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -18,7 +18,6 @@ I enjoy working on real-world challenges, especially in areas related to water q
 
 ![Moin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoinManiyar786&layout=compact&theme=radical)
 
 
 🚀 What I'm Working On:
