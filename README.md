@@ -18,6 +18,8 @@ I enjoy working on real-world challenges, especially in areas related to water q
 
 ![Moin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoinManiyar786&layout=compact&theme=radical)
+
 
 🚀 What I'm Working On:
 
