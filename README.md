@@ -8,6 +8,7 @@ A tech enthusiast with a passion for developing impactful solutions.
 Skilled in C, C++, Python, HTML, CSS, JavaScript, and currently learning Java.
 Experienced in web development and project management, with a strong interest in open-source contributions.
 I enjoy working on real-world challenges, especially in areas related to water quality and sustainability.
+
 🚀 What I'm Working On:
 
 Improving my personal projects and contributing to open-source.
