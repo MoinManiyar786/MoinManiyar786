@@ -27,10 +27,6 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinManiyar786&theme=radical&no-frame=true&row=1&column=6)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoinManiyar786&theme=radical)
-
-
-![Moin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=tokyonight)
 
 
 
