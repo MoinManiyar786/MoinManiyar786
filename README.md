@@ -17,6 +17,7 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 
 
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoinManiyar786&show_icons=true&theme=tokyonight" />
@@ -24,6 +25,13 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 </p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinManiyar786&theme=tokyonight&no-frame=true&row=1&column=3)
+
+## 🚀 Featured Projects:
+| Project Name            | Description                                      | Tech Stack                  |
+|-------------------------|--------------------------------------------------|-----------------------------|
+| **Water Drop Tracker App** | An app for tracking water quality and efficiency | MERN, IOR, AWS Cloud         |
+| **Work Connect App**      | Connecting workers to clients                   | MERN Stack                  |
+| **College Website**       | Responsive, functional college website          | HTML, CSS, JavaScript, Bootstrap |
 
 
 
