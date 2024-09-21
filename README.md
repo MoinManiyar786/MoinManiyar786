@@ -28,8 +28,8 @@ I'm a tech enthusiast with a passion for developing impactful solutions. Skilled
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinManiyar786&theme=tokyonight&no-frame=true&row=1&column=3)
 
+## 🐍 GitHub Contribution Snake:
 ![Snake animation](https://github.com/MoinManiyar786/MoinManiyar786/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🚀 Featured Projects:
 | Project Name            | Description                                      | Tech Stack                  |
